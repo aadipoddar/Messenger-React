@@ -1,2 +1,3 @@
-# Messenger-React
-Simple Messenger App with React
+# Messenger App
+
+## Messenger App with React
